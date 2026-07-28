@@ -1,0 +1,43 @@
+id_transacao,id_cliente,data_hora,valor,tipo_transacao,cidade,tipo_alerta
+1508,17,2026-06-27 00:56:00,16082.97,TED,São Paulo,Valor alto em horário noturno
+1528,7,2026-06-27 04:06:00,9393.26,TED,Fortaleza,Valor alto em horário noturno
+1526,7,2026-06-28 00:46:00,7436.02,PIX,Belo Horizonte,Valor alto em horário noturno
+1521,20,2026-06-29 00:30:00,6340.54,PIX,Salvador,Valor alto em horário noturno
+1540,33,2026-06-29 02:48:53,888.8,PIX,Brasília,Múltiplas transações em até 10 min
+1511,14,2026-06-29 05:27:00,16477.15,Saque,Fortaleza,Valor alto em horário noturno
+1507,15,2026-06-30 01:27:00,8836.27,PIX,Porto Alegre,Valor alto em horário noturno
+1563,34,2026-06-30 20:22:35,521.08,Compra Cartão,São Paulo,Múltiplas transações em até 10 min
+1517,38,2026-07-02 00:01:00,7998.91,TED,Fortaleza,Valor alto em horário noturno
+1504,3,2026-07-02 00:24:00,15160.49,PIX,São Paulo,Valor alto em horário noturno
+1525,16,2026-07-02 01:58:00,13014.66,PIX,Porto Alegre,Valor alto em horário noturno
+1506,13,2026-07-03 04:42:00,13677.68,PIX,Brasília,Valor alto em horário noturno
+1510,19,2026-07-04 00:06:00,5063.77,Saque,Rio de Janeiro,Valor alto em horário noturno
+1548,32,2026-07-04 17:37:01,713.95,Compra Cartão,Belo Horizonte,Múltiplas transações em até 10 min
+1544,37,2026-07-04 21:13:23,787.12,PIX,Brasília,Múltiplas transações em até 10 min
+1501,30,2026-07-06 03:52:00,10304.08,PIX,Recife,Valor alto em horário noturno
+1513,2,2026-07-06 05:03:00,15417.11,PIX,Manaus,Valor alto em horário noturno
+1514,12,2026-07-08 00:51:00,14611.17,PIX,Recife,Valor alto em horário noturno
+1518,17,2026-07-08 02:47:00,8625.21,TED,Porto Alegre,Valor alto em horário noturno
+1505,12,2026-07-09 01:45:00,8371.17,TED,São Paulo,Valor alto em horário noturno
+1554,11,2026-07-09 15:40:28,761.77,PIX,Manaus,Múltiplas transações em até 10 min
+1552,11,2026-07-09 15:44:28,903.29,Compra Cartão,Fortaleza,Múltiplas transações em até 10 min
+1553,11,2026-07-09 15:47:28,1109.26,PIX,Curitiba,Múltiplas transações em até 10 min
+1520,10,2026-07-10 05:19:00,12543.21,Saque,Manaus,Valor alto em horário noturno
+1524,17,2026-07-10 05:57:00,6440.96,TED,Curitiba,Valor alto em horário noturno
+1515,11,2026-07-11 05:15:00,5199.54,PIX,Brasília,Valor alto em horário noturno
+1509,25,2026-07-13 03:08:00,16358.27,PIX,Fortaleza,Valor alto em horário noturno
+1522,7,2026-07-13 05:54:00,5794.13,PIX,Manaus,Valor alto em horário noturno
+1558,39,2026-07-15 10:18:48,605.11,PIX,Recife,Múltiplas transações em até 10 min
+1559,39,2026-07-15 10:20:48,1340.95,Compra Cartão,Porto Alegre,Múltiplas transações em até 10 min
+1503,35,2026-07-16 04:53:00,19122.83,PIX,Fortaleza,Valor alto em horário noturno
+1512,35,2026-07-17 05:43:00,11025.24,Saque,Manaus,Valor alto em horário noturno
+1527,24,2026-07-20 05:23:00,14875.04,Saque,Curitiba,Valor alto em horário noturno
+1530,14,2026-07-20 05:50:00,17437.35,TED,Brasília,Valor alto em horário noturno
+1516,4,2026-07-21 02:41:00,18944.06,TED,Recife,Valor alto em horário noturno
+1536,27,2026-07-22 14:35:04,1367.53,Compra Cartão,São Paulo,Múltiplas transações em até 10 min
+1535,27,2026-07-22 14:38:04,1275.69,Compra Cartão,Salvador,Múltiplas transações em até 10 min
+1534,27,2026-07-22 14:39:04,893.04,PIX,Salvador,Múltiplas transações em até 10 min
+1502,14,2026-07-23 01:21:00,11260.33,TED,Fortaleza,Valor alto em horário noturno
+1523,27,2026-07-23 01:54:00,5836.99,PIX,Rio de Janeiro,Valor alto em horário noturno
+1519,18,2026-07-23 03:06:00,8455.38,PIX,Rio de Janeiro,Valor alto em horário noturno
+1529,30,2026-07-24 02:53:00,16746.48,Saque,Manaus,Valor alto em horário noturno
